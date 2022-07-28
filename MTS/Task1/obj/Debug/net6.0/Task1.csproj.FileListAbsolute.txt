@@ -1,0 +1,15 @@
+/home/morf951/Desktop/AllContests/MTS/Task1/bin/Debug/net6.0/Task1
+/home/morf951/Desktop/AllContests/MTS/Task1/bin/Debug/net6.0/Task1.deps.json
+/home/morf951/Desktop/AllContests/MTS/Task1/bin/Debug/net6.0/Task1.runtimeconfig.json
+/home/morf951/Desktop/AllContests/MTS/Task1/bin/Debug/net6.0/Task1.dll
+/home/morf951/Desktop/AllContests/MTS/Task1/bin/Debug/net6.0/ref/Task1.dll
+/home/morf951/Desktop/AllContests/MTS/Task1/bin/Debug/net6.0/Task1.pdb
+/home/morf951/Desktop/AllContests/MTS/Task1/obj/Debug/net6.0/Task1.csproj.AssemblyReference.cache
+/home/morf951/Desktop/AllContests/MTS/Task1/obj/Debug/net6.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/morf951/Desktop/AllContests/MTS/Task1/obj/Debug/net6.0/Task1.AssemblyInfoInputs.cache
+/home/morf951/Desktop/AllContests/MTS/Task1/obj/Debug/net6.0/Task1.AssemblyInfo.cs
+/home/morf951/Desktop/AllContests/MTS/Task1/obj/Debug/net6.0/Task1.csproj.CoreCompileInputs.cache
+/home/morf951/Desktop/AllContests/MTS/Task1/obj/Debug/net6.0/Task1.dll
+/home/morf951/Desktop/AllContests/MTS/Task1/obj/Debug/net6.0/ref/Task1.dll
+/home/morf951/Desktop/AllContests/MTS/Task1/obj/Debug/net6.0/Task1.pdb
+/home/morf951/Desktop/AllContests/MTS/Task1/obj/Debug/net6.0/Task1.genruntimeconfig.cache

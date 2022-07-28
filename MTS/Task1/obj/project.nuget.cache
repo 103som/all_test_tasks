@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dd+R0DmRDO1Z4+v12bSpwm17WKm/f7ki0UTIs8dLxZ+0eY51E93csrgUd2QR4VhiLUebXA1pX7Djv3apGo5dng==",
+  "success": true,
+  "projectFilePath": "/home/morf951/Desktop/AllContests/MTS/Task1/Task1.csproj",
+  "expectedPackageFiles": [
+    "/home/morf951/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

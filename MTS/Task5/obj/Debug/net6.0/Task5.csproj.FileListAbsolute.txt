@@ -1,0 +1,15 @@
+/home/morf951/Desktop/AllContests/MTS/Task5/bin/Debug/net6.0/Task5
+/home/morf951/Desktop/AllContests/MTS/Task5/bin/Debug/net6.0/Task5.deps.json
+/home/morf951/Desktop/AllContests/MTS/Task5/bin/Debug/net6.0/Task5.runtimeconfig.json
+/home/morf951/Desktop/AllContests/MTS/Task5/bin/Debug/net6.0/Task5.dll
+/home/morf951/Desktop/AllContests/MTS/Task5/bin/Debug/net6.0/ref/Task5.dll
+/home/morf951/Desktop/AllContests/MTS/Task5/bin/Debug/net6.0/Task5.pdb
+/home/morf951/Desktop/AllContests/MTS/Task5/obj/Debug/net6.0/Task5.csproj.AssemblyReference.cache
+/home/morf951/Desktop/AllContests/MTS/Task5/obj/Debug/net6.0/Task5.GeneratedMSBuildEditorConfig.editorconfig
+/home/morf951/Desktop/AllContests/MTS/Task5/obj/Debug/net6.0/Task5.AssemblyInfoInputs.cache
+/home/morf951/Desktop/AllContests/MTS/Task5/obj/Debug/net6.0/Task5.AssemblyInfo.cs
+/home/morf951/Desktop/AllContests/MTS/Task5/obj/Debug/net6.0/Task5.csproj.CoreCompileInputs.cache
+/home/morf951/Desktop/AllContests/MTS/Task5/obj/Debug/net6.0/Task5.dll
+/home/morf951/Desktop/AllContests/MTS/Task5/obj/Debug/net6.0/ref/Task5.dll
+/home/morf951/Desktop/AllContests/MTS/Task5/obj/Debug/net6.0/Task5.pdb
+/home/morf951/Desktop/AllContests/MTS/Task5/obj/Debug/net6.0/Task5.genruntimeconfig.cache
