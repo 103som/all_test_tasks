@@ -26,7 +26,7 @@ class Program
     }
     
     /// <summary>
-    /// 2 способ.
+    /// 2 способ.(Вызывает падение).
     /// </summary>
     static void FailProcess2()
     {

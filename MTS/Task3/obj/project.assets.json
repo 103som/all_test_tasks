@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/morf951/Desktop/AllContests/MTS/Task3/Task3.csproj",
+      "projectUniqueName": "/home/morf951/Desktop/Mts_Test/MTS/Task3/Task3.csproj",
       "projectName": "Task3",
-      "projectPath": "/home/morf951/Desktop/AllContests/MTS/Task3/Task3.csproj",
+      "projectPath": "/home/morf951/Desktop/Mts_Test/MTS/Task3/Task3.csproj",
       "packagesPath": "/home/morf951/.nuget/packages/",
-      "outputPath": "/home/morf951/Desktop/AllContests/MTS/Task3/obj/",
+      "outputPath": "/home/morf951/Desktop/Mts_Test/MTS/Task3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/morf951/.nuget/NuGet/NuGet.Config"

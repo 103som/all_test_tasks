@@ -1,4 +1,8 @@
-﻿/// <summary>
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+/// <summary>
 /// <para> Отсчитать несколько элементов с конца </para>
 /// <example> new[] {1,2,3,4}.EnumerateFromTail(2) = (1, ), (2, ), (3, 1), (4, 0)</example>
 /// </summary> 
@@ -8,6 +12,13 @@
 /// <returns></returns>
 static class Program
 {
+    /// <summary>
+    /// "Считает" элементы с конца массива.
+    /// </summary>
+    /// <param name="enumerable"> Входной массив данных.</param>
+    /// <param name="tailLength"> Длина отсчета.</param>
+    /// <typeparam name="T"> Тип входных данных.</typeparam>
+    /// <returns> Посчитанную коллекцию.</returns>
     public static IEnumerable<(T item, int? tail)> EnumerateFromTail<T>(this IEnumerable<T> enumerable, int? tailLength)
     {
         // Возвращаем пустой List.

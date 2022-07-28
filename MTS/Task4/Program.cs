@@ -1,14 +1,17 @@
 ﻿using System;
-
+using System.Collections.Generic;
 static class Program
 {
     /// <summary>
-    /// Идея в том, чтобы воспользоваться ограниченеим по максимальному значению(просто создать массив на maxValue). А для экономии памти также использовать yield return.
+    /// Идея в том, чтобы воспользоваться ограниченеим по максимальному значению(просто создать массив на maxValue).
+    /// А для экономии памяти также использовать yield return.
+    /// Решение оптимально.(Можно не подключать using System.Collections.Generic и использовать вместо List<int> массив int[],
+    /// но я предпочитаю использовать List<int>, т.к. это удобнее и практичнее).
     /// </summary>
-    /// <param name="inputStream"></param>
-    /// <param name="sortFactor"></param>
-    /// <param name="maxValue"></param>
-    /// <returns></returns>
+    /// <param name="inputStream"> Входной поток.</param>
+    /// <param name="sortFactor"> Фактор сортировки.</param>
+    /// <param name="maxValue"> Максимальное значение в потоке.</param>
+    /// <returns> Отсортированный поток чисел.</returns>
     static IEnumerable<int> Sort(IEnumerable<int> inputStream, int sortFactor, int maxValue)
     {
         var allPossibleValues = new List<int>(maxValue + 1);

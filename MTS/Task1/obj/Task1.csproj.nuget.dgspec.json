@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/morf951/Desktop/AllContests/MTS/Task1/Task1.csproj": {}
+    "/home/morf951/Desktop/Mts_Test/MTS/Task1/Task1.csproj": {}
   },
   "projects": {
-    "/home/morf951/Desktop/AllContests/MTS/Task1/Task1.csproj": {
+    "/home/morf951/Desktop/Mts_Test/MTS/Task1/Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/morf951/Desktop/AllContests/MTS/Task1/Task1.csproj",
+        "projectUniqueName": "/home/morf951/Desktop/Mts_Test/MTS/Task1/Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "/home/morf951/Desktop/AllContests/MTS/Task1/Task1.csproj",
+        "projectPath": "/home/morf951/Desktop/Mts_Test/MTS/Task1/Task1.csproj",
         "packagesPath": "/home/morf951/.nuget/packages/",
-        "outputPath": "/home/morf951/Desktop/AllContests/MTS/Task1/obj/",
+        "outputPath": "/home/morf951/Desktop/Mts_Test/MTS/Task1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/morf951/.nuget/NuGet/NuGet.Config"

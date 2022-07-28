@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iy0X4qDQIyBLaefdYP5nhxR4brE8wweP4c2IFc1RoX3qMDPQXnglJOG7/+VOLn8MStSj08N7D7PiExRJkGXq7A==",
+  "dgSpecHash": "Phr6of8z9cWqO9XEX2TYXXBLYe3bu0Imd1CEaQvIErq/kpGAFe4XPJPl7dxvLAs3gJxD6elGIkO/UkhKqrGC1w==",
   "success": true,
-  "projectFilePath": "/home/morf951/Desktop/AllContests/MTS/Task3/Task3.csproj",
+  "projectFilePath": "/home/morf951/Desktop/Mts_Test/MTS/Task3/Task3.csproj",
   "expectedPackageFiles": [
     "/home/morf951/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
   ],
