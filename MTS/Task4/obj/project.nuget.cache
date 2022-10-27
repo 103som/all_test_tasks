@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RJZuCTejxUh9EnyCIKH4Ctk+JKWDokczTW0vg0SFIO/zJ3QytNqiRLj6yoOnbHddK6Wzt0aJKPhGRDD7il+Emg==",
+  "success": true,
+  "projectFilePath": "/home/morf951/Desktop/Mts_Test/MTS/Task4/Task4.csproj",
+  "expectedPackageFiles": [
+    "/home/morf951/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
