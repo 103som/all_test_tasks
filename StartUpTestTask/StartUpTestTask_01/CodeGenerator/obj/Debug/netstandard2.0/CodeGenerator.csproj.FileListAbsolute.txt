@@ -8,3 +8,13 @@ C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\CodeGenerator\obj\Debug\nets
 C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\CodeGenerator\obj\Debug\netstandard2.0\CodeGenerator.csproj.CoreCompileInputs.cache
 C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\CodeGenerator\obj\Debug\netstandard2.0\CodeGenerator.dll
 C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\CodeGenerator\obj\Debug\netstandard2.0\CodeGenerator.pdb
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_01\CodeGenerator\bin\Debug\netstandard2.0\CodeGenerator.deps.json
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_01\CodeGenerator\bin\Debug\netstandard2.0\CodeGenerator.dll
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_01\CodeGenerator\bin\Debug\netstandard2.0\CodeGenerator.pdb
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_01\CodeGenerator\obj\Debug\netstandard2.0\CodeGenerator.csproj.AssemblyReference.cache
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_01\CodeGenerator\obj\Debug\netstandard2.0\CodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_01\CodeGenerator\obj\Debug\netstandard2.0\CodeGenerator.AssemblyInfoInputs.cache
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_01\CodeGenerator\obj\Debug\netstandard2.0\CodeGenerator.AssemblyInfo.cs
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_01\CodeGenerator\obj\Debug\netstandard2.0\CodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_01\CodeGenerator\obj\Debug\netstandard2.0\CodeGenerator.dll
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_01\CodeGenerator\obj\Debug\netstandard2.0\CodeGenerator.pdb

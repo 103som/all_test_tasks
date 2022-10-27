@@ -29,8 +29,16 @@ namespace Library_1
         {{
             DirectoryInfo di = new DirectoryInfo(Vault.path);
 
-            foreach(var fi in di.GetFiles())
-                vault.AddNode(new Node(di.Name, di.ToString()));
+            foreach(var fi in di.GetFiles()) {{
+                using (FileStream fs = File.OpenRead(fi.ToString()))
+                {{
+                    byte[] buffer = new byte[fs.Length];
+                    fs.Read(buffer, 0, buffer.Length);
+                    string str = Encoding.Default.GetString(buffer);
+
+                    vault.AddNode(new Node(di.Name, str));
+                }}
+            }}
         }}
 
         static partial void Download(int pos, Vault vault)
@@ -42,7 +50,14 @@ namespace Library_1
             if (pos >= files.Count())
                 throw new ArgumentOutOfRangeException();
 
-            vault.AddNode(new Node(files[pos].Name, files[pos].ToString()));
+             using (FileStream fs = File.OpenRead(files[pos].ToString()))
+                {{
+                    byte[] buffer = new byte[fs.Length];
+                    fs.Read(buffer, 0, buffer.Length);
+                    string str = Encoding.Default.GetString(buffer);
+
+                    vault.AddNode(new Node(files[pos].Name, str));
+                }}
         }}
     }}
 }}";

@@ -785,11 +785,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\CodeGenerator\\CodeGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\StartUpTestTask_01\\CodeGenerator\\CodeGenerator.csproj",
       "projectName": "CodeGenerator",
-      "projectPath": "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\CodeGenerator\\CodeGenerator.csproj",
+      "projectPath": "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\StartUpTestTask_01\\CodeGenerator\\CodeGenerator.csproj",
       "packagesPath": "C:\\Users\\103so\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\CodeGenerator\\obj\\",
+      "outputPath": "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\StartUpTestTask_01\\CodeGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

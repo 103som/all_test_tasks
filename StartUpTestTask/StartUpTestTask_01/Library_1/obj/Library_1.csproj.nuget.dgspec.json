@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\Library_1\\Library_1.csproj": {}
+    "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\StartUpTestTask_01\\Library_1\\Library_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\Library_1\\Library_1.csproj": {
+    "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\StartUpTestTask_01\\Library_1\\Library_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\Library_1\\Library_1.csproj",
+        "projectUniqueName": "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\StartUpTestTask_01\\Library_1\\Library_1.csproj",
         "projectName": "Library_1",
-        "projectPath": "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\Library_1\\Library_1.csproj",
+        "projectPath": "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\StartUpTestTask_01\\Library_1\\Library_1.csproj",
         "packagesPath": "C:\\Users\\103so\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\Library_1\\obj\\",
+        "outputPath": "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\StartUpTestTask_01\\Library_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

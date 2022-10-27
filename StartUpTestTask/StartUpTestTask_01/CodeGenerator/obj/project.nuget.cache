@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gdxRfJM1o0RAwbGgFNfz0JXlWkHh7+4tXg/nYjERYqzmviVWI2OBQ6UChRvEGDQYs5Dujekze0LttWlnBj1rgA==",
+  "dgSpecHash": "Hc76UGxYP0vNb/dSdiV9o4Ux+jhmEzWC4lmVeS4jWZTlwwrC6OBYGRhQ4ScFoKXqD5/OvM70LaevApaIiguYAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\CodeGenerator\\CodeGenerator.csproj",
+  "projectFilePath": "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\StartUpTestTask_01\\CodeGenerator\\CodeGenerator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\103so\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
     "C:\\Users\\103so\\.nuget\\packages\\microsoft.codeanalysis.common\\3.8.0\\microsoft.codeanalysis.common.3.8.0.nupkg.sha512",

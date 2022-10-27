@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H64w+RSjO5a+2oSUi3ozrCId+mVRwxBduKjnc4NQbdw1ZMt0CUDhlr41Qwl42FXzvGJuzAvvYvQTuiNX1/3tOA==",
+  "dgSpecHash": "qWRCSHNFFXIkKKHpM2fCBgPmjxeKR1NSTchjYQvld+p+YCAXI53ULCnX4LV0f6WjKOJutP5F55TcDBBn+xy7jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\TestCode\\TestCode.csproj",
+  "projectFilePath": "C:\\Users\\103so\\Desktop\\AllTestTasks\\StartUpTestTask\\StartUpTestTask_01\\TestCode\\TestCode.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\103so\\.nuget\\packages\\microsoft.codeanalysis.common\\3.8.0\\microsoft.codeanalysis.common.3.8.0.nupkg.sha512",
     "C:\\Users\\103so\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
