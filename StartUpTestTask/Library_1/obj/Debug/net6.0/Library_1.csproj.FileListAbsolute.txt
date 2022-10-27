@@ -1,0 +1,12 @@
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\Library_1\bin\Debug\net6.0\Library_1.deps.json
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\Library_1\bin\Debug\net6.0\Library_1.dll
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\Library_1\bin\Debug\net6.0\Library_1.pdb
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\Library_1\obj\Debug\net6.0\Library_1.csproj.AssemblyReference.cache
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\Library_1\obj\Debug\net6.0\Library_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\Library_1\obj\Debug\net6.0\Library_1.AssemblyInfoInputs.cache
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\Library_1\obj\Debug\net6.0\Library_1.AssemblyInfo.cs
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\Library_1\obj\Debug\net6.0\Library_1.csproj.CoreCompileInputs.cache
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\Library_1\obj\Debug\net6.0\Library_1.dll
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\Library_1\obj\Debug\net6.0\refint\Library_1.dll
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\Library_1\obj\Debug\net6.0\Library_1.pdb
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\Library_1\obj\Debug\net6.0\ref\Library_1.dll
