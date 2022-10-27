@@ -1,0 +1,12 @@
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_03\ClassLibrary3\bin\Debug\net6.0\ClassLibrary3.deps.json
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_03\ClassLibrary3\bin\Debug\net6.0\ClassLibrary3.dll
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_03\ClassLibrary3\bin\Debug\net6.0\ClassLibrary3.pdb
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_03\ClassLibrary3\obj\Debug\net6.0\ClassLibrary3.csproj.AssemblyReference.cache
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_03\ClassLibrary3\obj\Debug\net6.0\ClassLibrary3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_03\ClassLibrary3\obj\Debug\net6.0\ClassLibrary3.AssemblyInfoInputs.cache
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_03\ClassLibrary3\obj\Debug\net6.0\ClassLibrary3.AssemblyInfo.cs
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_03\ClassLibrary3\obj\Debug\net6.0\ClassLibrary3.csproj.CoreCompileInputs.cache
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_03\ClassLibrary3\obj\Debug\net6.0\ClassLibrary3.dll
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_03\ClassLibrary3\obj\Debug\net6.0\refint\ClassLibrary3.dll
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_03\ClassLibrary3\obj\Debug\net6.0\ClassLibrary3.pdb
+C:\Users\103so\Desktop\AllTestTasks\StartUpTestTask\StartUpTestTask_03\ClassLibrary3\obj\Debug\net6.0\ref\ClassLibrary3.dll
